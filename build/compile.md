@@ -1,0 +1,2 @@
+cmke ..
+make

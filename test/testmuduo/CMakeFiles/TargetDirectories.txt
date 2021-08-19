@@ -1,0 +1,3 @@
+/home/song/testmoudu/CMakeFiles/edit_cache.dir
+/home/song/testmoudu/CMakeFiles/server.dir
+/home/song/testmoudu/CMakeFiles/rebuild_cache.dir

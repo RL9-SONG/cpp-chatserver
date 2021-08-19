@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/song/test/build/testmuduo",
+  "command": "/usr/bin/c++     -g;-g -g   -o CMakeFiles/server.dir/muduo_server.cpp.o -c /home/song/test/testmuduo/muduo_server.cpp",
+  "file": "/home/song/test/testmuduo/muduo_server.cpp"
+}
+]

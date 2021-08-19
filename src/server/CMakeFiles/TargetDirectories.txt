@@ -1,0 +1,3 @@
+/home/song/chat/src/server/CMakeFiles/edit_cache.dir
+/home/song/chat/src/server/CMakeFiles/ChatSever.dir
+/home/song/chat/src/server/CMakeFiles/rebuild_cache.dir
